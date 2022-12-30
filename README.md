@@ -12,12 +12,6 @@ I am a highly skilled and experienced full stack developer with a strong track r
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kecoliva&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kecoliva&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kecoliva&icon=2&color=7)](https://visitcount.itsvg.in)
 
